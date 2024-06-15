@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aniruddha-Kadam-dev
+- 👋 Hi, I’m Aniruddha Kadam
 - 👀 I’m interested in desining and developing websites and apps
 - 🌱 I’m currently learning Reactjs, React-Native, etc.
 - 💞️ I’m looking to collaborate on new ideas and projects
